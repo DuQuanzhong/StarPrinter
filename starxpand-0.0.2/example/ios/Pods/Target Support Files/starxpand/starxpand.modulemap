@@ -1,0 +1,6 @@
+framework module starxpand {
+  umbrella header "starxpand-umbrella.h"
+
+  export *
+  module * { export * }
+}
